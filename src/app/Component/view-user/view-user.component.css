@@ -1,0 +1,32 @@
+.mat-elevation-z8{
+
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+
+}
+table {
+  width: 100%;
+}
+td, th {
+  width: 20%;
+}
+.search{
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 2%;
+
+}
+.button{
+  margin-left: 90%;
+  margin-top: 2%;
+  background-color: white;
+  color: black;
+}
+img {
+  object-fit: cover;
+  height: 75px;
+  width: 75px;
+  border-radius: 50px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.35);
+}
